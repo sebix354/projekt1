@@ -2,6 +2,6 @@
 
 int main(int argc, char **argv)
 {
-	std::cout << Pozdrowienia z Zabrza!";
-		return 0
-}
+	std::cout << "Hello World! How are you?";
+	return 0;
+} 
